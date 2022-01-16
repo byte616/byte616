@@ -11,7 +11,7 @@
 
 ## RECORD
 
-![byte616's github status](https://github-readme-stats.vercel.app/api?username=byte616github&theme=vue-dark)
+![byte616's github status](https://github-readme-stats.vercel.app/api?username=byte616&theme=vue-dark)
 
 ## LANGUAGE
 
